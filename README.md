@@ -1,2 +1,2 @@
-# rusikkz.github.io
+# rusik.kz
 Root Repository
